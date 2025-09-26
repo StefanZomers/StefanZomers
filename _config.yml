@@ -1,6 +1,6 @@
 title: Korte verhalen
 description: korte verhalen van Stefan Zomers
-theme: minima
+theme: leap-day
 plugins:
  - jekyll-feed
  - jekyll-sitemap
